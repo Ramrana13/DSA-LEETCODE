@@ -18,4 +18,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+## Hash Table
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+## Two Pointers
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+## Binary Search
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+## Sorting
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
