@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1395-count-number-of-teams](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1395-count-number-of-teams) |
 | [1672-richest-customer-wealth](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
+| [1395-count-number-of-teams](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1395-count-number-of-teams) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,8 +133,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [1395-count-number-of-teams](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1395-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [1395-count-number-of-teams](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
