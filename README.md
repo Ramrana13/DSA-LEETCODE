@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0409-longest-palindrome) |
 ## Bit Manipulation
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 ## Tree
 |  |
 | ------- |
@@ -110,5 +112,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0409-longest-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
