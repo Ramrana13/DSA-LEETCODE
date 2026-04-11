@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0409-longest-palindrome) |
+| [0844-backspace-string-compare](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0844-backspace-string-compare](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [1395-count-number-of-teams](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1395-count-number-of-teams) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
