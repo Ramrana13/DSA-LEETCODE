@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0724-find-pivot-index](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0409-longest-palindrome) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Matrix
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0307-range-sum-query-mutable) |
 ## Design
 |  |
@@ -163,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
