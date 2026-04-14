@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0724-find-pivot-index](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0844-backspace-string-compare](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
