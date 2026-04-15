@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0409-longest-palindrome) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
