@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0303-range-sum-query-immutable) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0844-backspace-string-compare](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0844-backspace-string-compare) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [1395-count-number-of-teams](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1395-count-number-of-teams) |
 ## Divide and Conquer
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -174,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
