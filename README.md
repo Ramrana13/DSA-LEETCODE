@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0409-longest-palindrome) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Matrix
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -205,4 +210,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0078-subsets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
