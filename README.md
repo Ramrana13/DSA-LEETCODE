@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0322-coin-change) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [1395-count-number-of-teams](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1395-count-number-of-teams) |
