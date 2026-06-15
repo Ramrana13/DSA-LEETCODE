@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0409-longest-palindrome) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [1395-count-number-of-teams](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1395-count-number-of-teams) |
 ## Divide and Conquer
 |  |
