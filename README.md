@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0437-path-sum-iii) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0437-path-sum-iii) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0437-path-sum-iii) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Interactive
 |  |
