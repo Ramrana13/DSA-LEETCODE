@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0455-assign-cookies](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Matrix
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
