@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1395-count-number-of-teams](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1395-count-number-of-teams) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1672-richest-customer-wealth](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Matrix
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [1395-count-number-of-teams](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1395-count-number-of-teams) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Divide and Conquer
 |  |
 | ------- |
