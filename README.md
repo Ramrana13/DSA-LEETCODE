@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0072-edit-distance) |
+| [0198-house-robber](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [1395-count-number-of-teams](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1395-count-number-of-teams) |
 ## Divide and Conquer
