@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Interactive
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1395-count-number-of-teams](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1395-count-number-of-teams) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Divide and Conquer
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -273,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ramrana13/DSA-LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
